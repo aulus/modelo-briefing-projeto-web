@@ -1,9 +1,7 @@
 # Modelo de briefing para projetos web
 
-Nota: Inicialmente esse modelo de briefing foi criado para uso pessoal, mas acredito que possa se tornar um 
-modelo colaborativo e melhorar com a experiência de cada um. 
-
-Então, caso ache interessante dê um Fork! Ahh Pull Request são sempre bem-vindos! :p 
+Nota: Inicialmente esse modelo foi criado para uso pessoal, mas acredito que possa se tornar um 
+modelo colaborativo e melhorar com a experiência de cada um. Então, caso ache interessante dê um Fork, serão sempre bem-vindos! :p 
 
 ## Briefing da [empresa]
 
@@ -15,12 +13,12 @@ Então, caso ache interessante dê um Fork! Ahh Pull Request são sempre bem-vin
   - <a href="http://www.facebook.com" target="_blank">facebook.com</a>
   - <a href="http://www.twitter.com" target="_blank">twitter.com</a>
 + **Contatos**:
-  - **E-mail**: [E-mail que será responsável pelo feedback do projeto]
-  - **Telefone**: [Telefone do responsável que responde pela empresa]
+  - **E-mail**: [E-mail do responsável pelo feedback do projeto]
+  - **Telefone**: [Telefone do responsável pelo feedback do projeto]
 
 ### Descrição do Projeto
   + **Tipo do produto**: [Site/App] 
-  + **Objetivo**: [Qual objetivo deseja atiginr]
+  + **Objetivo**: [Qual objetivo deseja atingir]
   + **Resultados**: [Quais resultados deseja obter]
 
 ### Público Alvo (Target)
@@ -32,20 +30,20 @@ Então, caso ache interessante dê um Fork! Ahh Pull Request são sempre bem-vin
 
 
 ### Concorrentes
-[É importante listar concorrentes diretos/indiretos e definir pontos positivos e negativos de cada um deles]
+[É importante listar concorrentes diretos/indiretos e definir pontos positivos/negativos de cada um deles]
 
 + **Concorrente 1**
     - **Site**: <a href="http://www.google.com" target="_blank">concorrente1.com.br</a>
-    - **Pontos positivos**: [O que gosta em seus concorrentes]
-    - **Pontos negativos**: [O que não gosta em seus concorrentes] 
-    - **Diferenças**: [Quais as diferenças entre esse concorrente e o cliente]
+    - **Pontos positivos**: [O que gosta do concorrente]
+    - **Pontos negativos**: [O que não gosta do concorrente] 
+    - **Diferenças**: [Quais as diferenças entre o concorrente e o cliente]
     - **Obs**: [Caso tenha outros pontos relevantes]
 
 + **Concorrente 2** 
     - **Site**: <a href="http://www.google.com" target="_blank">concorrente2.com.br</a>
-    - **Pontos positivos**: [O que gosta em seus concorrentes]
-    - **Pontos negativos**: [O que não gosta em seus concorrentes] 
-    - **Diferenças**: [Quais as diferenças entre esse concorrente e o cliente]
+    - **Pontos positivos**: [O que gosta do concorrente]
+    - **Pontos negativos**: [O que não gosta do concorrente] 
+    - **Diferenças**: [Quais as diferenças entre o concorrente e o cliente]
     - **Obs**: [Caso tenha outros pontos relevantes]
 
 ### Referências
@@ -61,7 +59,7 @@ Então, caso ache interessante dê um Fork! Ahh Pull Request são sempre bem-vin
 
 
 ### Identidade visual
-  + **Logotipo**: [O recomendado é solicitar o arquivo em vetor]
+  + **Logotipo**: [É recomendado solicitar o arquivo em vetor]
   + **Slogan**: [Caso tenha]
   + **Manual da marca**: [Caso tenha]
   + **Uso das cores**: 
@@ -69,7 +67,7 @@ Então, caso ache interessante dê um Fork! Ahh Pull Request são sempre bem-vin
     - **Não usar**: [Cores que não devem ser usadas, geralmente dos principais concorrentes]
 
 ### Brainstorm
-[Discussão do que deve ter no projeto, como páginas, efeitos, itens, etc...] 
+[Discussão "livre" do que deve ter no projeto, como páginas, efeitos, itens, etc...] 
 
 
 ## Escopo do Projeto
@@ -86,12 +84,12 @@ Então, caso ache interessante dê um Fork! Ahh Pull Request são sempre bem-vin
       - Fotos da empresa;
 
     Agenda de eventos
-      - Listagem de Eventos;
-      - Exibição de Eventos;
+      - Listagem de eventos;
+      - Exibição de eventos;
 
     Notícias
-      - Página com listagem de notícias;
-      - Página com exibição de notícias;
+      - Listagem de notícias;
+      - Exibição de notícias;
 
     Fale Conosco
       - Formulário de contato (enviado para e-mail);
